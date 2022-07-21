@@ -18,7 +18,7 @@ public class Hola_Mundo {
         System.out.println("La suma de las dos cantidades es: " + (a+b));
         System.out.println("La resta de las cantidades ingresadas es: "+ (a-b));
         System.out.println("La multiplicacion de las cantidades ingresadas es: "+ (a*b));
-       
+        System.out.println("La division de las cantidades ingresadas es: "+ (a/b));
         
     }
     
